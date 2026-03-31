@@ -11,7 +11,7 @@ To establish a foundational professional presence across key digital platforms u
 #### **I. LinkedIn: Professional Networking & Branding**
 * **Purpose:** Connecting with the VIT Bhopal academic community and tracking industry trends/internship opportunities.
 * **Action:** Updated education details and professional summary to align with B.Tech CSE standards.
-![LinkedIn Profile](https://github.com/varan25bsa10099-hue/digital-literacy-project/blob/main/task-2-portfolio/LinkedIn-profile.jpeg?raw=true)
+![LinkedIn Profile](https://github.com/ananttt07/Digital-Literacy-Project/blob/8751f22c3293875a89612506110d9cfb9b9d1e7f/Task-2%20digital%20portfolio/linkdin.png.jpeg)
 
 #### **II. GitHub: Technical Portfolio & Version Control**
 * **Purpose:** Primary repository for hosting coding projects and documenting learning progress.
