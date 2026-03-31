@@ -21,7 +21,7 @@ To establish a foundational professional presence across key digital platforms u
 #### **III. Kaggle: Data Science & AI Engagement**
 * **Purpose:** Engaging with the global data science community and practicing with real-world datasets.
 * **Action:** Established a research-oriented profile to bridge the gap between theory and data application.
-![Kaggle Profile](https://github.com/varan25bsa10099-hue/digital-literacy-project/blob/main/task-2-portfolio/Screenshot%202026-03-24%20185702.png?raw=true)
+![Kaggle Profile](https://github.com/ananttt07/Digital-Literacy-Project/blob/2073caf978c6d5ffabdb1a12fe2cc3cc2574f92d/Task-2%20digital%20portfolio/kaggle%20profile.png)
 
 ---
 
