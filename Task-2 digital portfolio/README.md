@@ -16,7 +16,7 @@ To establish a foundational professional presence across key digital platforms u
 #### **II. GitHub: Technical Portfolio & Version Control**
 * **Purpose:** Primary repository for hosting coding projects and documenting learning progress.
 * **Action:** Developed a personalized README landing page showcasing branch, year, and technical goals.
-![GitHub Profile](https://github.com/varan25bsa10099-hue/digital-literacy-project/blob/main/task-2-portfolio/Screenshot%202026-03-24%20185729.png?raw=true)
+![GitHub Profile](https://github.com/ananttt07/Digital-Literacy-Project/blob/1f1dbf1728068267b22c2e9825d50d20c92cd508/Task-2%20digital%20portfolio/github%20profile.png)
 
 #### **III. Kaggle: Data Science & AI Engagement**
 * **Purpose:** Engaging with the global data science community and practicing with real-world datasets.
