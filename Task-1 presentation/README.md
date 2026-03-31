@@ -10,7 +10,7 @@
 
 **Deliverable:**
 
-![Digital Literacy Infographic](
+![Digital Literacy Infographic](https://github.com/ananttt07/Digital-Literacy-Project/blob/67d804c0a282f965e65339a1f4d9df6df7d03c63/Task-1%20presentation/INFOGRAPHIC%20(2).png)
 
 Task 1 Reflection: Digital Literacy Awareness
 
