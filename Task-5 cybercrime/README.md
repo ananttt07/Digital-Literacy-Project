@@ -1,8 +1,8 @@
 # 🛡️ Student Digital Ambassador Portfolio: Digital Literacy Project
 
 ### 🎓 VIT Bhopal University | CSE1021
-**Student Name:** Varan Agrawal  
-**Registration Number:** 25BSA10099  
+**Student Name:** Anant Singh 
+**Registration Number:** 25BCY10095 
 **Branch:** BTech Computer Science & Engineering  
 
 ---
